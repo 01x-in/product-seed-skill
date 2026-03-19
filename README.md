@@ -124,7 +124,7 @@ proceed with milestone 2
 ## Repo Structure
 
 ```
-product-seed/
+product-seed-skill/
 ├── product-seed.skill          ← Claude skill (direct install)
 ├── skill/
 │   ├── SKILL.md                ← skill source
@@ -156,7 +156,7 @@ Every distribution format produces the same nine-field `product-seed.md`:
 
 ## About 01x
 
-This tool is part of **[01x](https://01x.in)** — a paid builder environment where you join a cohort, explore an idea, use AI to accelerate, and ship an MVP. Applications are reviewed manually. Cohort sizes are kept small.
+This tool is part of **[01x](https://01x.in)** — a paid builder environment where you join a cohort, explore an idea, use AI to accelerate, and ship an MVP.
 
 ---
 
